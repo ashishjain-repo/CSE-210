@@ -1,0 +1,15 @@
+C:\Users\aj901\OneDrive - BYU-Idaho\Winter 24\CSE-210 Programming with Classes\CSE-210\week1\prep\bin\Debug\net8.0\prep.exe
+C:\Users\aj901\OneDrive - BYU-Idaho\Winter 24\CSE-210 Programming with Classes\CSE-210\week1\prep\bin\Debug\net8.0\prep.deps.json
+C:\Users\aj901\OneDrive - BYU-Idaho\Winter 24\CSE-210 Programming with Classes\CSE-210\week1\prep\bin\Debug\net8.0\prep.runtimeconfig.json
+C:\Users\aj901\OneDrive - BYU-Idaho\Winter 24\CSE-210 Programming with Classes\CSE-210\week1\prep\bin\Debug\net8.0\prep.dll
+C:\Users\aj901\OneDrive - BYU-Idaho\Winter 24\CSE-210 Programming with Classes\CSE-210\week1\prep\bin\Debug\net8.0\prep.pdb
+C:\Users\aj901\OneDrive - BYU-Idaho\Winter 24\CSE-210 Programming with Classes\CSE-210\week1\prep\obj\Debug\net8.0\prep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aj901\OneDrive - BYU-Idaho\Winter 24\CSE-210 Programming with Classes\CSE-210\week1\prep\obj\Debug\net8.0\prep.AssemblyInfoInputs.cache
+C:\Users\aj901\OneDrive - BYU-Idaho\Winter 24\CSE-210 Programming with Classes\CSE-210\week1\prep\obj\Debug\net8.0\prep.AssemblyInfo.cs
+C:\Users\aj901\OneDrive - BYU-Idaho\Winter 24\CSE-210 Programming with Classes\CSE-210\week1\prep\obj\Debug\net8.0\prep.csproj.CoreCompileInputs.cache
+C:\Users\aj901\OneDrive - BYU-Idaho\Winter 24\CSE-210 Programming with Classes\CSE-210\week1\prep\obj\Debug\net8.0\prep.sourcelink.json
+C:\Users\aj901\OneDrive - BYU-Idaho\Winter 24\CSE-210 Programming with Classes\CSE-210\week1\prep\obj\Debug\net8.0\prep.dll
+C:\Users\aj901\OneDrive - BYU-Idaho\Winter 24\CSE-210 Programming with Classes\CSE-210\week1\prep\obj\Debug\net8.0\refint\prep.dll
+C:\Users\aj901\OneDrive - BYU-Idaho\Winter 24\CSE-210 Programming with Classes\CSE-210\week1\prep\obj\Debug\net8.0\prep.pdb
+C:\Users\aj901\OneDrive - BYU-Idaho\Winter 24\CSE-210 Programming with Classes\CSE-210\week1\prep\obj\Debug\net8.0\prep.genruntimeconfig.cache
+C:\Users\aj901\OneDrive - BYU-Idaho\Winter 24\CSE-210 Programming with Classes\CSE-210\week1\prep\obj\Debug\net8.0\ref\prep.dll
