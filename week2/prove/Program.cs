@@ -3,9 +3,9 @@ public class assignment_weektwo_one
 {
     static void Main(string[] args)
     {
-        Console.Write("What is the magic number? ");
-        string temp = Console.ReadLine();
-        int magicNum = int.Parse(temp);
+        Random rnd = new Random();
+        int magicNum = rnd.Next(101);
+        Console.WriteLine(magicNum);
         bool loopVal = true;
         while(loopVal)
         {
