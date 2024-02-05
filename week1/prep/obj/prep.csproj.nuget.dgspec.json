@@ -13,13 +13,20 @@
         "packagesPath": "C:\\Users\\aj901\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\aj901\\OneDrive - BYU-Idaho\\Winter 24\\CSE-210 Programming with Classes\\CSE-210\\week1\\prep\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\aj901\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\aj901\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
